@@ -1,2 +1,2 @@
-# poratl
+# portal
 tnm recruitment portal
